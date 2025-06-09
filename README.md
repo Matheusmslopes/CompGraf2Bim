@@ -15,11 +15,3 @@ Abra o projeto na unity e faça o seguinte passo a passo para importar essas tex
 - Pode deixar apenas as texturas: ground2, gound4 e ground6
 - Quando terminar o import, deve aplicar automaticamente as texturas
 
-Falta fazer basicamente 2 coisas:
-
-  - Colocar a parte da iluminação
-  - Verificação da distancia minima para a parede
- 
-Quem fizer a parte da iluminação, também vai fazer alguma coisa para quando o player chegar no final do labirinto aparecer alguma mensagem ou algo do tipo para deixar claro que ele chegou ao fim do jogo.
-
-  
